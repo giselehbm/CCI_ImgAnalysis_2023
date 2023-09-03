@@ -1,4 +1,4 @@
-# :microscope: Introductory course to Image Analysis in Life Science 2023
+# :microscope: Image Analysis in Life Science 2023
 
 Welcome to the image analysis course organized by the [Centre for Cellular Imaging](https://www.gu.se/en/core-facilities/infrastructure-at-core-facilities/centre-for-cellular-imaging)! 
 
@@ -22,3 +22,9 @@ The material in this page corresponds to the content and practical exercises of 
 * **15:15-17:00** Ensuring image quality
 
 ## :muscle: Let's start!
+
+## Acknowledgements
+
+* :microscope: **Image Data** *Fiji sample images, Broad Bioimage Benchmark Collection, Live Cell Imaging facility at the Karolinska Institute*
+* :thought_balloon: :hammer_and_wrench: **Design & Implementation** *by Gisele Miranda*
+* :clapper: **Organization** *by Centre for Cellular Imaging*
