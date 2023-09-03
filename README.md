@@ -12,6 +12,8 @@ The material in this page corresponds to the content and practical exercises of 
 - [x] How to extract quantitative information from images
 - [x] Understand which image artifacts can be corrected by image analysis and which artifacts cannot 
 
+The images to be used in Day 1 can be downloaded from this [link](https://drive.google.com/drive/folders/1pEP9XFZJpQgwGJfJxSOwk5vNbUB_7A52?usp=sharing)
+
 ## :alarm_clock: Schedule
 
 * **09:00-09:15** Welcome, check computers and FIJI installations
