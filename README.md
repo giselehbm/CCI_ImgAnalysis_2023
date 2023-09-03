@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # :microscope: Image Analysis in Life Science 2023
 
 Welcome to the image analysis course organized by the [Centre for Cellular Imaging](https://www.gu.se/en/core-facilities/infrastructure-at-core-facilities/centre-for-cellular-imaging)! 
